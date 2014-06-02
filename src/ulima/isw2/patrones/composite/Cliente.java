@@ -6,8 +6,8 @@ public class Cliente {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Computadora computadora = new Computadora();
+		System.out.println("Precio Computadora: "+computadora.darPrecio());
 	}
 
 }

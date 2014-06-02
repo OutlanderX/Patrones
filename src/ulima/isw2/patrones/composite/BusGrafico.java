@@ -1,6 +1,6 @@
 package ulima.isw2.patrones.composite;
 
-public class Memory implements Componente{
+public class BusGrafico implements Componente{
 
 	@Override
 	public double darPrecio() {
